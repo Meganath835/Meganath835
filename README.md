@@ -1,21 +1,156 @@
-<h1>Hi 👋, I'm Meganath.</h1>
-<p>I'm a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning, with a passion for building intelligent applications and solving real-world problems through technology.  I enjoy working across the full development stack, from designing responsive web applications to developing scalable backend systems and experimenting with AI/ML models. My interests include machine learning, computer vision, web development, GPU computing, and software engineering.  I'm constantly exploring new technologies, contributing to personal projects, participating in hackathons, and improving my problem-solving skills. My GitHub is where I document my learning journey, share projects, and experiment with new ideas.  Currently exploring:  🤖 Artificial Intelligence & Machine Learning ☕ Java & Backend Development 🌐 Full Stack Web Development ⚡ GPU Programming & Parallel Computing ♟️ Building a modern chess platform from scratch</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/meganath-saravanan-099475280" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Meganath835&show_icons=true&locale=en" alt="Meganath835" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meganath835&" alt="Meganath835" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meganath835&show_icons=true&locale=en&layout=compact" alt="Meganath835" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meganath835" alt="Meganath835" /></a></p>
+# Hey, I'm Meganath Saravanan 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Meganath835&color=blueviolet&style=flat-square&label=Profile+Views)
+
+## 🚀 AI & Machine Learning Student • Full Stack Developer • Problem Solver
+
+I'm a second-year B.Tech student specializing in **Artificial Intelligence and Machine Learning** with a passion for building intelligent applications and solving real-world problems through technology.
+
+I enjoy developing full-stack applications, designing scalable backend systems, experimenting with AI/ML models, and optimizing software performance. I'm constantly exploring new technologies, contributing to personal projects, participating in hackathons, and sharpening my problem-solving skills.
+
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Passionate about AI/ML, Full Stack Development & Software Engineering
+- 🌱 Currently learning **System Design, Spring Boot, Next.js, and Advanced Machine Learning**
+- 🚀 Exploring **GPU Computing, Computer Vision, and Large Language Models**
+- 🏆 Hackathon enthusiast and continuous learner
+- ♟️ Currently building a feature-rich Chess Platform from scratch
+- 📚 Always striving to write clean, efficient, and maintainable code
+- ⚡ Fun fact: I enjoy turning ambitious ideas into long-term personal projects.
+
+---
+
+# 💻 Tech Stack
+
+<table>
+<tr>
+<th align="left">Category</th>
+<th align="left">Technologies</th>
+</tr>
+
+<tr>
+<td><b>💻 Programming Languages</b></td>
+<td>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+
+<tr>
+<td><b>🌐 Frontend</b></td>
+<td>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 AI / ML</b></td>
+<td>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ♟️ **Chess Platform** | A modern chess platform with online multiplayer, puzzles, analysis, matchmaking, and leaderboards. |
+| 🚀 **RAW2PNG GPU Converter** | High-performance GPU-accelerated image conversion pipeline for RAW, DICOM, and TIFF images. |
+| 🧠 **Student Performance Prediction System** | AI-powered academic performance prediction with personalized learning recommendations. |
+| 🏋️ **AI Gym Safety System** | Intelligent exercise monitoring and injury prevention system using computer vision. |
+| 🛡️ **Travel Safety Companion** | Award-winning hackathon project focused on women's travel safety and emergency assistance. |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Meganath835&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Meganath835&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meganath835&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- System Design
+- Spring Boot
+- Next.js
+- Computer Vision
+- GPU Programming
+- WebGPU
+- Software Architecture
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meganath-saravanan-099475280)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gmmeganath@gmail.com)
+
+---
+
+> **"Great software isn't built overnight—it's crafted one commit at a time."** 🚀
